@@ -1,8 +1,6 @@
----
-# Multi-Tier Docker Setup
-
+## Multi-Tier Docker Setup
 ## Overview
-This project demonstrates a multi-tier architecture using Docker
+- This project demonstrates a multi-tier architecture using Docker
 - **App Image**: Runs a Flask application.
 - **Database Image**: Runs a MySQL database.
 
