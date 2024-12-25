@@ -1,5 +1,4 @@
 ---
-
 # Multi-Tier Docker Setup
 
 ## Overview
